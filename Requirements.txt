@@ -3,3 +3,7 @@ requests
 beautifulsoup4
 phonenumbers
 lxml
+speech-recognition
+pyttsx3
+keyboard
+pyaudio
